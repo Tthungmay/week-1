@@ -13,20 +13,24 @@
 ## Questions
 1. How this code can sort number from smaller to larger
  
-Answer: 
+Answer: This code can sort number by receive a group of number that randomly and code will use
+		while-loop to sort number by use if-else condition for check number sorted? or not
+		if-else condition will pick first number and second number to check which one is smaller
+		if the first number is smaller do nothing else swap with second number and continue the loop
+		untill the number are sorted.
 
 2. What if two numbers equal, what will happen? 
 
-Answer: 
+Answer: do nothing and continue the loop.
 
 3. How many times at line 24 will be executed (as a function of the size of input) 
 
-Answer: 
+Answer: 27
 
 4. Why we need flag variable ? 
 
-Answer: 
+Answer: for check code that into if-else to sort number.
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:
+Answer: Faster in case that number already sorted. 
